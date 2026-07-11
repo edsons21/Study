@@ -2,12 +2,26 @@
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
-    <title>Visualizador</title>
+    <title>Viewer</title>
 </head>
 
 <body>
 
-<h1>Viewer funcionando</h1>
+<h1>Viewer</h1>
+
+<p><strong>Arquivo solicitado:</strong></p>
+
+<pre id="arquivo"></pre>
+
+<script>
+
+const params = new URLSearchParams(window.location.search);
+
+const arquivo = params.get("file");
+
+document.getElementById("arquivo").textContent = arquivo;
+
+</script>
 
 </body>
 </html>
