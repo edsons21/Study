@@ -2,35 +2,51 @@
 <html lang="pt-BR">
 <head>
 <meta charset="UTF-8">
-<title>Mapas Mentais</title>
+<title>Study - Mapas Mentais</title>
 
-<script src="https://cdn.jsdelivr.net/npm/markmap-autoloader"></script>
+<style>
+body {
+    font-family: Arial, sans-serif;
+    padding: 30px;
+}
+
+h1 {
+    text-align: center;
+}
+
+a {
+    display: block;
+    margin: 10px;
+    padding: 15px;
+    background: #f1f1f1;
+    text-decoration: none;
+    color: black;
+    border-radius: 8px;
+}
+
+a:hover {
+    background: #ddd;
+}
+</style>
 
 </head>
 
 <body>
 
-<svg id="mindmap" style="width:100%; height:100vh;"></svg>
+<h1>📚 Mapas Mentais - Fuvest</h1>
 
-<script>
-fetch("mapa.md")
-  .then(response => response.text())
-  .then(markdown => {
+<h2>📖 Literatura</h2>
 
-    const { Transformer, Markmap } = window.markmap;
+<a href="mapa.html?arquivo=Literatura/Escolas-Literarias.md">
+Escolas Literárias
+</a>
 
-    const transformer = new Transformer();
+<h2>🧬 Biologia</h2>
 
-    const { root } = transformer.transform(markdown);
+<a href="mapa.html?arquivo=Biologia/Citologia.md">
+Citologia
+</a>
 
-    Markmap.create(
-      "#mindmap",
-      null,
-      root
-    );
-
-  });
-</script>
 
 </body>
 </html>
