@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<title>Mapa Mental</title>
+
+<script src="https://cdn.jsdelivr.net/npm/markmap-autoloader"></script>
+
+</head>
+
+<body>
+
+<svg id="mindmap" style="width:100%; height:100vh;"></svg>
+
+<script>
+fetch("mapa.md")
+  .then(response => response.text())
+  .then(markdown => {
+
+    const { Transformer, Markmap } = window.markmap;
+
+    const transformer = new Transformer();
+
+    const { root } = transformer.transform(markdown);
+
+    Markmap.create(
+      "#mindmap",
+      null,
+      root
+    );
+
+  });
+</script>
+
+</body>
+</html>
