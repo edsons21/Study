@@ -1,3 +1,11 @@
+---
+title: markmap
+markmap:
+  colorFreezeLevel: 2
+  maxWidth: 300
+  htmlParser:
+    selector: h1,h2,h3,ul,ol,li,table,pre
+---
 
 ## Quinhentismo (1500–1601)
 
