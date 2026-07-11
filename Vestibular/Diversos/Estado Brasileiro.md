@@ -1,4 +1,3 @@
-# Constituição do Estado Brasileiro
 ## Constituição Federal de 1988
 ### Conceito
 - Lei máxima do Brasil
