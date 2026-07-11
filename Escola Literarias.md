@@ -1,0 +1,375 @@
+
+## Quinhentismo (1500–1601)
+
+
+### Contexto
+
+- Descobrimento do Brasil
+- Literatura informativa
+- Literatura jesuítica
+
+### Características
+
+- Descrição da terra
+- Catequização indígena
+- Linguagem simples
+- Valor documental
+
+### Autores
+
+- Pero Vaz de Caminha
+- Padre José de Anchieta
+- Padre Manuel da Nóbrega
+
+### Obras
+
+- Carta de Pero Vaz de Caminha
+- Poemas de Anchieta
+
+---
+
+
+## Barroco (1601–1768)
+
+
+### Contexto
+
+- Contrarreforma
+- Conflito entre fé e razão
+
+### Características
+
+- Antíteses
+- Paradoxos
+- Cultismo
+- Conceptismo
+- Pessimismo
+- Fugacidade da vida
+
+### Autores
+
+- Gregório de Matos
+- Padre Antônio Vieira
+
+### Obras
+
+- Sermões
+- Poemas satíricos
+- Poemas religiosos
+
+---
+
+
+## Arcadismo (1768–1836)
+
+
+### Contexto
+
+- Iluminismo
+- Neoclassicismo
+- Inconfidência Mineira
+
+### Características
+
+- Bucolismo
+- Equilíbrio
+- Simplicidade
+- Pastoralismo
+- Retorno à natureza
+
+### Autores
+
+- Cláudio Manuel da Costa
+- Tomás Antônio Gonzaga
+- Basílio da Gama
+- Santa Rita Durão
+
+### Obras
+
+- Marília de Dirceu
+- O Uraguai
+- Caramuru
+
+---
+
+
+## Romantismo (1836–1881)
+
+
+### Contexto
+
+- Independência do Brasil
+- Formação da identidade nacional
+
+### Primeira geração
+
+
+#### Características
+
+- Nacionalismo
+- Indianismo
+- Exaltação da natureza
+
+#### Autores
+
+- Gonçalves Dias
+- Gonçalves de Magalhães
+
+---
+
+
+### Segunda geração
+
+
+#### Características
+
+- Ultrarromantismo
+- Mal do século
+- Pessimismo
+- Morte
+- Amor impossível
+
+#### Autores
+
+- Álvares de Azevedo
+- Casimiro de Abreu
+- Junqueira Freire
+
+---
+
+
+### Terceira geração
+
+
+#### Características
+
+- Condoreirismo
+- Abolicionismo
+- Liberdade
+
+#### Autores
+
+- Castro Alves
+- Tobias Barreto
+
+---
+
+
+## Realismo (1881–1893)
+
+
+### Contexto
+
+- Positivismo
+- Cientificismo
+
+### Características
+
+- Objetividade
+- Crítica social
+- Psicologia
+- Adultério
+- Ironia
+
+### Autor principal
+
+- Machado de Assis
+
+### Obras
+
+- Memórias Póstumas de Brás Cubas
+- Dom Casmurro
+- Quincas Borba
+
+---
+
+
+## Naturalismo
+
+
+### Características
+
+- Determinismo
+- Darwinismo
+- Hereditariedade
+- Instintos
+- Sexualidade
+
+### Autor
+
+- Aluísio Azevedo
+
+### Obras
+
+- O Cortiço
+- Casa de Pensão
+
+---
+
+
+## Parnasianismo
+
+
+### Características
+
+- Arte pela arte
+- Perfeição formal
+- Objetividade
+- Sonetos
+- Impessoalidade
+
+### Autores
+
+- Olavo Bilac
+- Raimundo Correia
+- Alberto de Oliveira
+
+---
+
+
+## Simbolismo
+
+
+### Características
+
+- Musicalidade
+- Espiritualidade
+- Misticismo
+- Sinestesia
+- Sugestão
+
+### Autores
+
+- Cruz e Sousa
+- Alphonsus de Guimaraens
+
+---
+
+
+## Pré-Modernismo (1902–1922)
+
+
+### Contexto
+
+- Transição
+- Crítica ao Brasil
+
+### Características
+
+- Regionalismo
+- Denúncia social
+- Linguagem mais próxima da realidade
+
+### Autores
+
+- Euclides da Cunha
+- Lima Barreto
+- Monteiro Lobato
+- Graça Aranha
+
+### Obras
+
+- Os Sertões
+- Triste Fim de Policarpo Quaresma
+- Urupês
+
+---
+
+
+## Modernismo (1922–1945)
+
+
+### Semana de Arte Moderna
+
+- 1922
+
+### Primeira fase (1922–1930)
+
+
+#### Características
+
+- Ruptura
+- Experimentalismo
+- Nacionalismo crítico
+- Humor
+
+#### Autores
+
+- Mário de Andrade
+- Oswald de Andrade
+- Manuel Bandeira
+
+---
+
+
+### Segunda fase (1930–1945)
+
+
+#### Características
+
+- Regionalismo
+- Questão social
+- Psicologia
+
+#### Autores
+
+- Graciliano Ramos
+- Jorge Amado
+- Rachel de Queiroz
+- José Lins do Rego
+- Érico Veríssimo
+
+---
+
+
+### Poesia de 30
+
+
+#### Autores
+
+- Carlos Drummond de Andrade
+- Cecília Meireles
+- Vinicius de Moraes
+- Murilo Mendes
+
+---
+
+
+## Pós-Modernismo (1945–Atualidade)
+
+
+### Geração de 45
+
+
+#### Características
+
+- Rigor formal
+- Universalismo
+
+#### Autores
+
+- João Cabral de Melo Neto
+- Lygia Fagundes Telles
+- Clarice Lispector
+- Guimarães Rosa
+
+---
+
+
+### Tendências Contemporâneas
+
+
+#### Características
+
+- Pluralidade
+- Metalinguagem
+- Fragmentação
+- Diversidade temática
+
+#### Autores
+
+- Milton Hatoum
+- Conceição Evaristo
+- Raduan Nassar
+- Ana Maria Machado
+- Ferreira Gullar
