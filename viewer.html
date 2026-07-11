@@ -64,9 +64,10 @@ async function carregarMapa(){
         });
     }
 
-    Markmap.create("#mindmap",{
-        autoFit:true
-    },root);
+ Markmap.create("#mindmap",{
+    autoFit: true,
+    initialExpandLevel: 1
+}, root);
 
 }
 
