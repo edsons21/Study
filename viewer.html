@@ -1,50 +1,20 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
+
 <meta charset="UTF-8">
+
 <title>Viewer</title>
 
-<style>
-body{
-    max-width:900px;
-    margin:auto;
-    padding:40px;
-    font-family:Arial;
-}
-
-pre{
-    white-space:pre-wrap;
-    border:1px solid #ddd;
-    padding:20px;
-    border-radius:8px;
-}
-</style>
+<script src="https://cdn.jsdelivr.net/npm/markmap-autoloader"></script>
 
 </head>
 
 <body>
 
-<h1>Viewer</h1>
+<h1>Teste Markmap</h1>
 
-<h3>Conteúdo do Markdown</h3>
-
-<pre id="conteudo">Carregando...</pre>
-
-<script>
-
-const params = new URLSearchParams(window.location.search);
-
-const arquivo = params.get("file");
-
-fetch(arquivo)
-.then(response => response.text())
-.then(md => {
-
-    document.getElementById("conteudo").textContent = md;
-
-});
-
-</script>
+<svg id="mindmap"></svg>
 
 </body>
 </html>
