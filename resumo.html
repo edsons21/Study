@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+
+<meta charset="UTF-8">
+
+<title>Resumo</title>
+
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+
+<style>
+
+body {
+    font-family: Arial, sans-serif;
+    max-width: 900px;
+    margin: auto;
+    padding: 30px;
+    line-height: 1.6;
+}
+
+h1 {
+    border-bottom: 2px solid #ddd;
+}
+
+h2 {
+    margin-top: 30px;
+}
+
+li {
+    margin-bottom: 8px;
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<div id="conteudo">
+Carregando resumo...
+</div>
+
+
+<script>
+
+
+const arquivo = new URLSearchParams(window.location.search)
+.get("arquivo");
+
+
+fetch(arquivo)
+
+.then(res => res.text())
+
+.then(texto => {
+
+document.getElementById("conteudo").innerHTML =
+marked.parse(texto);
+
+});
+
+
+</script>
+
+
+</body>
+
+</html>
